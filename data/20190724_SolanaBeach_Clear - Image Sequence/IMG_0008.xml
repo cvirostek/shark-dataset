@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>20190724_SolanaBeach_Clear - Image Sequence</folder>
+	<filename>IMG_0008.png</filename>
+	<path>/Users/gabrielmarquez/Documents/CSC480/Project/labelImg-master/20190724_SolanaBeach_Clear - Image Sequence/IMG_0008.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1708</xmin>
+			<ymin>970</ymin>
+			<xmax>1988</xmax>
+			<ymax>1162</ymax>
+		</bndbox>
+	</object>
+</annotation>
