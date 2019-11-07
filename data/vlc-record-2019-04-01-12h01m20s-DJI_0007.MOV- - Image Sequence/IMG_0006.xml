@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>vlc-record-2019-04-01-12h01m20s-DJI_0007.MOV- - Image Sequence</folder>
+	<filename>IMG_0006.png</filename>
+	<path>/Users/gabrielmarquez/Documents/CSC480/Project/labelImg-master/vlc-record-2019-04-01-12h01m20s-DJI_0007.MOV- - Image Sequence/IMG_0006.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1975</xmin>
+			<ymin>1225</ymin>
+			<xmax>2342</xmax>
+			<ymax>1448</ymax>
+		</bndbox>
+	</object>
+</annotation>
