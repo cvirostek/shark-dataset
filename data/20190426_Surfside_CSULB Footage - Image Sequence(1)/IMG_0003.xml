@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>20190426_Surfside_CSULB Footage - Image Sequence(1)</folder>
+	<filename>IMG_0003.png</filename>
+	<path>/Users/gabrielmarquez/Documents/CSC480/Project/labelImg-master/20190426_Surfside_CSULB Footage - Image Sequence(1)/IMG_0003.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2075</xmin>
+			<ymin>1315</ymin>
+			<xmax>2168</xmax>
+			<ymax>1470</ymax>
+		</bndbox>
+	</object>
+</annotation>
